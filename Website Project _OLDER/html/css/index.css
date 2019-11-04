@@ -1,0 +1,108 @@
+html {
+    background-color: #00539F;
+  }
+
+body {
+    margin: 0;
+    
+}
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  
+  
+}
+.logo{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  
+}
+
+#wrapper{
+    display: flex;
+    justify-content: center;
+    
+    height: 115vh;
+}
+
+.mygrid {
+
+    
+    background-color: darkorange;
+    display: grid;
+
+}
+
+header {
+    
+    background-color: lightslategray;
+    text-align: center ;
+
+
+    height: 50vh;
+    
+
+}
+
+
+
+nav{
+   
+    display: block;
+    text-align: center;
+    padding: 12px 16px;
+    justify-content: space-between;
+    
+
+    font-family:  'Oswald', sans-serif;
+    
+    background-color: black;
+
+}
+
+li{
+    display: inline-block;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+
+.multiDescription{
+    font-family:  'Oswald', sans-serif;
+    width: 1300px;
+    text-align:center;
+    
+    
+}
+.exCard{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 223px;
+  background-color: darkorange;
+}
+
+.bottomLink{
+    text-align:center;
+    width: 1300px;
+}
+
+.test{
+    text-align:center;
+    width: 1300px;
+    background-color: darkorange;
+    font-family: 'Source Sans Pro', sans-serif;
+
+
+}
+
+footer{
+    
+    background-color: darkorange;
+    
+}
